@@ -7,7 +7,10 @@ A bunch of links to blog posts, articles, videos, etc for learning Go.
 
 * [Books](#books)
 * [Videos](#videos)
+  * [Playlists](#playlists)
+  * [Presentations](#presentations)
 * [Blogs](#blogs)
+* [Best practices](#best-practices)
 
 ## Books
 
@@ -26,7 +29,11 @@ A bunch of links to blog posts, articles, videos, etc for learning Go.
 
 * :star: [Tech school](https://www.youtube.com/@TECHSCHOOLGURU)
 
+### Presentations
 
 ## Blogs 
 
 * :star: [testingwithgo](https://testwithgo.com/)
+
+
+## Best Practices
