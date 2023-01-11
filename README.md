@@ -21,6 +21,7 @@ A bunch of links to blog posts, articles, videos, etc for learning Go.
 * :star: [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
 * :star: [Data Structures and Algorithmic Thinking with Go: Data Structure and Algorithmic Puzzles](https://www.amazon.com/Data-Structures-Algorithmic-Thinking-Structure/dp/1949870901) - [PDF]()
 * :star: [Learn Go with tests](https://github.com/quii/learn-go-with-tests/releases)
+* :star: [Mastering Go - Third Edition](https://www.packtpub.com/product/mastering-go-third-edition/9781801079310)
 
 
 
