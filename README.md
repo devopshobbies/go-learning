@@ -16,6 +16,7 @@ A bunch of links to blog posts, articles, videos, etc for learning Go.
 
 * :star: [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/)
 * :star: [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
+* :star: [Golang Persian Book](https://book.gofarsi.ir/)
 * :star: [Let’s Go! Learn to Build Professional Web Applications With Go](https://www.goodreads.com/book/show/43429043-let-s-go)
 * :star: [Let’s Go Further! Advanced patterns for building APIs and web applications in Go](https://bitfieldconsulting.com/golang/alex-edwards-lets-go-further)
 * :star: [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
