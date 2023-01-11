@@ -37,6 +37,7 @@ A bunch of links to blog posts, articles, videos, etc for learning Go.
 
 * :star: [testingwithgo](https://testwithgo.com/)
 * :star: [Golang Persian Book](https://book.gofarsi.ir/)
+* :star: [Learning Golang through Examples](https://hackernoon.com/time-to-go-learning-golang-through-examples-480a90c5e7f9)
 
 
 ## Best Practices
