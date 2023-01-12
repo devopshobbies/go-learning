@@ -11,6 +11,7 @@ A bunch of links to blog posts, articles, videos, etc for learning Go.
   * [Presentations](#presentations)
 * [Blogs](#blogs)
 * [Best practices](#best-practices)
+* [Repositories](#repositories)
 
 ## Books
 
@@ -42,3 +43,8 @@ A bunch of links to blog posts, articles, videos, etc for learning Go.
 
 
 ## Best Practices
+
+
+## Repositories
+
+* :star: [project-layout](https://github.com/golang-standards/project-layout)
