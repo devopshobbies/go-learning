@@ -30,6 +30,7 @@ A bunch of links to blog posts, articles, videos, etc for learning Go.
 ### Playlists
 
 * :star: [Tech school](https://www.youtube.com/@TECHSCHOOLGURU)
+* :star: [gotime](https://changelog.com/gotime/)
 
 ### Presentations
 
