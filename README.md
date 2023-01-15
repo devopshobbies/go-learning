@@ -48,3 +48,4 @@ A bunch of links to blog posts, articles, videos, etc for learning Go.
 ## Repositories
 
 * :star: [project-layout](https://github.com/golang-standards/project-layout)
+* [go-by-example](https://github.com/wangkechun/go-by-example)
