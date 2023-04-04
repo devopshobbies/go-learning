@@ -1,4 +1,7 @@
 # go-learning
+<p align="center">
+  <img src="./assets/thumbnail.jpg?raw=true" alt="Sublime's custom image"/>
+</p>
 
 A bunch of links to blog posts, articles, videos, etc for learning Go.
 
