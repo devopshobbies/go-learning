@@ -38,6 +38,12 @@ A bunch of links to blog posts, articles, videos, etc for learning Go.
 
 ### Presentations
 
+### Youtube channels 
+
+* [Anthony GG](https://www.youtube.com/@anthonygg_)
+* [ProgrammingPercy](https://www.youtube.com/@programmingpercy)
+
+
 ## Blogs 
 
 * [testingwithgo](https://testwithgo.com/)
